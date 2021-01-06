@@ -1,0 +1,54 @@
+﻿========================   Hey! Welcome ==========================
+
+
+
+
+
+						Masoud Bahrami
+					  http://Refactor.ir
+					  Masoud@Refactor.ir
+
+
+						   Clean  Code
+							Code Kata
+
+
+
+
+================ http://DomainDrivenDesign.ir ====================
+
+
+
+
+
+
+
+
+
+
+
+
+				|Instrument	| Shares	| Price	| Total |
+				---------------------------------------
+				|IBM		|	1000	| 25	| 25000 |
+				|GE			|   400		| 100	| 40000 |
+				---------------------------------------
+										|Total	| 65000 |
+
+
+				|Instrument	| Shares	| Price	  | Total     |
+				--------------------------------------------
+				|IBM		|	1000	| 25 USD  | 25000 USD |
+				|Novartis	|   400		| 150 CHF | 60000 CHF |
+				----------------------------------
+									    |Total	  | 65000 USD |
+
+				Currency Change Rate
+				----------------------------
+				| From	| To		| Rate |
+				----------------------------
+				| CHF	| USD		| 1.5  |
+
+
+
+
