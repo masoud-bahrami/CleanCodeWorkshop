@@ -8,7 +8,6 @@
 					  http://Refactor.ir
 					  Masoud@Refactor.ir
 
-
 						   Clean  Code
 							Code Kata
 
